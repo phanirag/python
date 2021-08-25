@@ -1,3 +1,20 @@
 {
-  "files": {}
+  "files": {
+    "main.py": [
+      {
+        "id": "b60cd961-bf11-4755-8b48-0badf1b309c9",
+        "line": 1,
+        "version": 1024,
+        "index": 0
+      }
+    ],
+    "pythonBasics/string.py": [
+      {
+        "id": "0abf2334-5b3c-4280-bb2c-9faa0632520b",
+        "line": 17,
+        "version": 24,
+        "index": 170
+      }
+    ]
+  }
 }
