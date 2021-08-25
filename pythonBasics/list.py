@@ -41,6 +41,7 @@ basket.extend([23,34,21,33])
 print(basket)
 
 #pop(index)
+print('pop')
 basket.pop() # Pop we give index
 print(basket)
 basket.pop(1) 
