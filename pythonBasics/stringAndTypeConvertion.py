@@ -1,7 +1,7 @@
 #Strings are immutable.
 print(type("hell"))
 username = "super"
-passd  = username +'pass'
+passd = username + 'pass'
 print(passd)
 
 #Long strings
@@ -24,7 +24,7 @@ print(type(str(100)))
 name = "phani"
 user = "jhon"
 age = 40
-print("hello {0} ! My name is {1} and age is {2}".format(name, user,age))
+print("hello {0} ! My name is {1} and age is {2}".format(name, user, age))
 
 print(f"hello {name} ! My name is {user} and age is {age}")
 
@@ -39,7 +39,7 @@ print(var[:3])
 print(var[::2])
 
 #revers indexing
-print(var[-1]) 
+print(var[-1])
 
 #revers string
 print(var[::-1])
@@ -48,8 +48,8 @@ print(var[::-1])
 print(var[::-2])
 
 #immutable we cannot reassigne we can change value.
-var[2] = '2' #will not work 
+var[2] = '2'  #will not work
 
 #join
-qustion = '?'.join(["how","are","you","doing"])
+qustion = '?'.join(["how", "are", "you", "doing"])
 print(qustion)

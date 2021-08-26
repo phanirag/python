@@ -13,7 +13,4 @@ dict
 
 #Specialized Data Types
 
-None #nothing
-
-
-
+None  #nothing
