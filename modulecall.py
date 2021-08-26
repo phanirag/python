@@ -1,3 +1,5 @@
-from pythonBasics import docInfo
+# from pythonBasics import docInfo
+# print(docInfo.docInfo('a'))
 
-print(docInfo.docInfo('a'))
+import pythonBasics.docInfo
+print(pythonBasics.docInfo.docInfo('a'))
